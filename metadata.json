@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 视觉助手",
+  "description": "一个强大的视觉分析聊天界面，能够使用 Gemini 2.5 Flash 解读图像、图表和 ASCII 艺术。",
+  "requestFramePermissions": []
+}
